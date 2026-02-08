@@ -36,7 +36,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-06T21:33:09Z",
+            "last_commit": "2026-02-07T09:31:38Z",
             "owner": "Zeus64",
             "repo": "alcinoe",
             "stars": 1099
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-01T19:44:43Z",
+            "last_commit": "2026-02-07T12:06:30Z",
             "owner": "parmaja",
             "repo": "minilib",
             "stars": 80
@@ -862,10 +862,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-06T23:59:35Z",
+            "last_commit": "2026-02-08T00:42:16Z",
             "owner": "castle-engine",
             "repo": "castle-engine",
-            "stars": 1134
+            "stars": 1135
           }
         },
         {
@@ -914,7 +914,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-07T01:03:19Z",
+            "last_commit": "2026-02-08T03:17:22Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 209
@@ -1407,7 +1407,7 @@
             "last_commit": "2025-05-19T12:15:47Z",
             "owner": "DelphiBuilder",
             "repo": "NetCom7",
-            "stars": 213
+            "stars": 214
           }
         },
         {
@@ -2301,7 +2301,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-04T17:55:00Z",
+            "last_commit": "2026-02-07T12:34:38Z",
             "owner": "Alexey-T",
             "repo": "ATFlatControls",
             "stars": 108
@@ -2405,7 +2405,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-05T09:27:54Z",
+            "last_commit": "2026-02-07T18:15:02Z",
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
             "stars": 183
@@ -3068,7 +3068,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-02T19:55:11Z",
+            "last_commit": "2026-02-07T20:45:40Z",
             "owner": "bero",
             "repo": "BoldForDelphi",
             "stars": 4
@@ -3332,7 +3332,7 @@
             "last_commit": "2026-02-06T08:09:32Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 10200
+            "stars": 10209
           }
         }
       ],
@@ -3517,7 +3517,7 @@
             "last_commit": "2025-12-21T20:25:39Z",
             "owner": "Xor-el",
             "repo": "HashLib4Pascal",
-            "stars": 247
+            "stars": 248
           }
         },
         {
@@ -3540,7 +3540,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-02-05T20:49:59Z",
+            "last_commit": "2026-02-07T21:40:03Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 235
@@ -4879,7 +4879,7 @@
             "last_commit": "2025-11-04T02:41:47Z",
             "owner": "jimmckeeth",
             "repo": "DelphiPatterns",
-            "stars": 176
+            "stars": 177
           }
         },
         {
@@ -4905,7 +4905,7 @@
             "last_commit": "2023-01-06T13:59:51Z",
             "owner": "Purik",
             "repo": "AIO",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -5188,7 +5188,7 @@
             "last_commit": "2025-09-07T15:29:05Z",
             "owner": "EtheaDev",
             "repo": "SVGShellExtensions",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -6037,7 +6037,7 @@
             "last_commit": "2026-01-23T21:57:16Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 172293
+            "stars": 172310
           }
         },
         {
@@ -6099,7 +6099,7 @@
             "last_commit": "2018-06-15T13:01:23Z",
             "owner": "WouterVanNifterick",
             "repo": "C-To-Delphi",
-            "stars": 282
+            "stars": 283
           }
         },
         {
@@ -6164,10 +6164,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T06:58:54.634Z",
+    "last_updated": "2026-02-08T04:35:54.755Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "source_repository": "v1nvn/enhansome-pascal",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Pascal with stars"
   }
 }
