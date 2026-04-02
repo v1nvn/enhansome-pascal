@@ -36,7 +36,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-03-27T22:41:51Z",
+            "last_commit": "2026-04-01T21:47:38Z",
             "owner": "MagicFoundation",
             "repo": "Alcinoe",
             "stars": 1106
@@ -80,7 +80,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-04-01T03:21:05Z",
+            "last_commit": "2026-04-01T16:07:51Z",
             "owner": "cnpack",
             "repo": "cnvcl",
             "stars": 392
@@ -385,7 +385,7 @@
             "last_commit": "2026-02-07T16:25:08Z",
             "owner": "kryslt",
             "repo": "KControls",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -987,7 +987,7 @@
             "last_commit": "2023-09-15T05:20:06Z",
             "owner": "turborium",
             "repo": "TurboRaylib",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -1261,7 +1261,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-03-30T20:46:34Z",
+            "last_commit": "2026-04-01T18:50:02Z",
             "owner": "HashLoad",
             "repo": "horse",
             "stars": 1325
@@ -1352,10 +1352,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-03-31T23:38:03Z",
+            "last_commit": "2026-04-01T20:24:11Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10910
+            "stars": 10909
           }
         },
         {
@@ -1560,7 +1560,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-03-13T17:44:35Z",
+            "last_commit": "2026-04-01T21:16:55Z",
             "owner": "stijnsanders",
             "repo": "xxm",
             "stars": 65
@@ -1682,7 +1682,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-04-01T01:33:31Z",
+            "last_commit": "2026-04-02T03:15:30Z",
             "owner": "cesarliws",
             "repo": "dext",
             "stars": 220
@@ -2080,7 +2080,7 @@
             "last_commit": "2026-02-07T16:25:08Z",
             "owner": "kryslt",
             "repo": "KControls",
-            "stars": 70
+            "stars": 71
           }
         },
         {
@@ -2260,7 +2260,7 @@
             "last_commit": "2026-03-06T06:04:18Z",
             "owner": "andrea-magni",
             "repo": "TFrameStand",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -2418,7 +2418,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-03-31T20:15:44Z",
+            "last_commit": "2026-04-01T14:54:47Z",
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
             "stars": 186
@@ -2544,7 +2544,7 @@
             "last_commit": "2026-03-30T16:44:36Z",
             "owner": "salvadordf",
             "repo": "CEF4Delphi",
-            "stars": 1309
+            "stars": 1310
           }
         },
         {
@@ -3055,7 +3055,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-03-30T16:03:55Z",
+            "last_commit": "2026-04-01T15:35:56Z",
             "owner": "davidlastrucci",
             "repo": "trysil",
             "stars": 130
@@ -3157,7 +3157,7 @@
             "last_commit": "2025-11-26T11:54:48Z",
             "owner": "lmbelo",
             "repo": "python4delphi",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -3342,10 +3342,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-04-01T02:32:42Z",
+            "last_commit": "2026-04-01T11:07:51Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 11241
+            "stars": 11267
           }
         }
       ],
@@ -3527,7 +3527,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-03-31T14:06:39Z",
+            "last_commit": "2026-04-01T22:57:32Z",
             "owner": "Xor-el",
             "repo": "HashLib4Pascal",
             "stars": 249
@@ -3553,7 +3553,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-03-31T22:15:23Z",
+            "last_commit": "2026-04-01T09:07:03Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 237
@@ -4092,7 +4092,7 @@
             "last_commit": "2024-07-02T18:51:32Z",
             "owner": "MahdiSafsafi",
             "repo": "DDetours",
-            "stars": 389
+            "stars": 390
           }
         },
         {
@@ -5102,7 +5102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-03-31T09:01:33Z",
+            "last_commit": "2026-04-01T09:01:09Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 74
@@ -5309,7 +5309,7 @@
             "last_commit": "2026-03-28T02:33:53Z",
             "owner": "VSoftTechnologies",
             "repo": "DUnitX",
-            "stars": 415
+            "stars": 416
           }
         },
         {
@@ -6076,7 +6076,7 @@
             "last_commit": "2026-02-12T17:50:51Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 173215
+            "stars": 173241
           }
         },
         {
@@ -6203,7 +6203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:51:13.064Z",
+    "last_updated": "2026-04-02T04:34:24.255Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "source_repository": "v1nvn/enhansome-pascal",
     "source_repository_description": null,
