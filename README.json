@@ -80,7 +80,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-13T00:37:00Z",
+            "last_commit": "2026-05-13T15:51:09Z",
             "owner": "cnpack",
             "repo": "cnvcl",
             "stars": 396
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-10T13:26:27Z",
+            "last_commit": "2026-05-14T00:45:32Z",
             "owner": "parmaja",
             "repo": "minilib",
             "stars": 83
@@ -865,7 +865,7 @@
             "last_commit": "2026-05-12T17:27:01Z",
             "owner": "castle-engine",
             "repo": "castle-engine",
-            "stars": 1161
+            "stars": 1162
           }
         },
         {
@@ -914,7 +914,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-13T01:42:42Z",
+            "last_commit": "2026-05-14T03:29:26Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 216
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-05-10T13:55:31Z",
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1372
+            "stars": 1373
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "last_commit": "2026-05-12T01:05:26Z",
             "owner": "HashLoad",
             "repo": "horse",
-            "stars": 1337
+            "stars": 1338
           }
         },
         {
@@ -1326,7 +1326,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-12T14:42:11Z",
+            "last_commit": "2026-05-13T10:51:00Z",
             "owner": "delphi-blocks",
             "repo": "WiRL",
             "stars": 254
@@ -1352,10 +1352,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-13T05:16:25Z",
+            "last_commit": "2026-05-13T22:39:58Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10921
+            "stars": 10920
           }
         },
         {
@@ -1685,7 +1685,7 @@
             "last_commit": "2026-05-12T15:29:07Z",
             "owner": "cesarliws",
             "repo": "dext",
-            "stars": 267
+            "stars": 269
           }
         }
       ],
@@ -2137,7 +2137,7 @@
             "last_commit": "2026-05-04T21:19:17Z",
             "owner": "DelphiWorlds",
             "repo": "Kastri",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -2189,7 +2189,7 @@
             "last_commit": "2025-12-30T15:50:22Z",
             "owner": "ying32",
             "repo": "liblcl",
-            "stars": 162
+            "stars": 163
           }
         }
       ],
@@ -2234,7 +2234,7 @@
             "last_commit": "2020-11-03T20:51:14Z",
             "owner": "hgourvest",
             "repo": "dcef3",
-            "stars": 301
+            "stars": 300
           }
         },
         {
@@ -2541,10 +2541,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-04-25T15:56:08Z",
+            "last_commit": "2026-05-13T10:09:21Z",
             "owner": "salvadordf",
             "repo": "CEF4Delphi",
-            "stars": 1318
+            "stars": 1319
           }
         },
         {
@@ -2557,7 +2557,7 @@
             "last_commit": "2026-05-11T08:58:42Z",
             "owner": "salvadordf",
             "repo": "WebView4Delphi",
-            "stars": 393
+            "stars": 394
           }
         }
       ],
@@ -2825,7 +2825,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2025-03-17T07:15:35Z",
+            "last_commit": "2026-05-14T04:26:53Z",
             "owner": "ccy",
             "repo": "txquery",
             "stars": 70
@@ -3100,7 +3100,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-12T18:01:49Z",
+            "last_commit": "2026-05-13T15:55:16Z",
             "owner": "remobjects",
             "repo": "pascalscript",
             "stars": 505
@@ -3306,7 +3306,7 @@
             "last_commit": "2026-03-14T02:07:16Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 416
+            "stars": 417
           }
         },
         {
@@ -3342,10 +3342,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-13T03:38:14Z",
+            "last_commit": "2026-05-14T03:14:25Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 12194
+            "stars": 12223
           }
         }
       ],
@@ -3540,7 +3540,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T17:20:56Z",
+            "last_commit": "2026-05-13T09:26:23Z",
             "owner": "Xor-el",
             "repo": "SimpleBaseLib4Pascal",
             "stars": 52
@@ -3556,7 +3556,7 @@
             "last_commit": "2026-05-12T22:55:09Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -4079,7 +4079,7 @@
             "last_commit": "2026-05-06T14:15:12Z",
             "owner": "gabr42",
             "repo": "OmniThreadLibrary",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -4306,7 +4306,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-09T13:00:26Z",
+            "last_commit": "2026-05-14T05:52:14Z",
             "owner": "michaelJustin",
             "repo": "slf4p",
             "stars": 42
@@ -4473,7 +4473,7 @@
             "last_commit": "2026-03-14T02:07:16Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 416
+            "stars": 417
           }
         },
         {
@@ -5027,7 +5027,7 @@
             "last_commit": "2025-12-20T02:49:00Z",
             "owner": "jmpessoa",
             "repo": "lazandroidmodulewizard",
-            "stars": 289
+            "stars": 290
           }
         },
         {
@@ -5102,7 +5102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-12T09:01:17Z",
+            "last_commit": "2026-05-13T09:01:30Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 74
@@ -5844,7 +5844,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-05T05:24:01Z",
+            "last_commit": "2026-05-13T11:17:02Z",
             "owner": "ase379",
             "repo": "gpprofile2017",
             "stars": 103
@@ -5929,7 +5929,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-04-24T07:43:09Z",
+            "last_commit": "2026-05-13T15:16:42Z",
             "owner": "andersmelander",
             "repo": "map2pdb",
             "stars": 71
@@ -6076,7 +6076,7 @@
             "last_commit": "2026-04-27T16:16:10Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 173870
+            "stars": 173887
           }
         },
         {
@@ -6203,7 +6203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:53:39.336Z",
+    "last_updated": "2026-05-14T05:52:39.567Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "source_repository": "v1nvn/enhansome-pascal",
     "source_repository_description": null,
