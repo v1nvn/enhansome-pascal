@@ -39,7 +39,7 @@
             "last_commit": "2026-05-16T20:22:28Z",
             "owner": "MagicFoundation",
             "repo": "Alcinoe",
-            "stars": 1115
+            "stars": 1114
           }
         },
         {
@@ -181,7 +181,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-15T15:08:44Z",
+            "last_commit": "2026-05-17T07:42:50Z",
             "owner": "parmaja",
             "repo": "minilib",
             "stars": 83
@@ -354,7 +354,7 @@
             "last_commit": "2024-07-31T06:54:13Z",
             "owner": "mike-lischke",
             "repo": "GraphicEx",
-            "stars": 117
+            "stars": 118
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2026-04-11T18:42:05Z",
             "owner": "EtheaDev",
             "repo": "SVGIconImageList",
-            "stars": 385
+            "stars": 384
           }
         },
         {
@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-17T01:38:33Z",
+            "last_commit": "2026-05-17T16:35:28Z",
             "owner": "castle-engine",
             "repo": "castle-engine",
             "stars": 1162
@@ -914,7 +914,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-15T21:42:38Z",
+            "last_commit": "2026-05-18T00:24:35Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 216
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-04-28T13:47:20Z",
             "owner": "geby",
             "repo": "synapse",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -1096,7 +1096,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-16T22:48:34Z",
+            "last_commit": "2026-05-17T22:01:54Z",
             "owner": "danieleteti",
             "repo": "delphimvcframework",
             "stars": 1375
@@ -1135,7 +1135,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-16T06:23:17Z",
+            "last_commit": "2026-05-17T09:35:29Z",
             "owner": "michaelJustin",
             "repo": "daraja-framework",
             "stars": 159
@@ -1352,7 +1352,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-16T15:54:03Z",
+            "last_commit": "2026-05-17T22:25:06Z",
             "owner": "apache",
             "repo": "thrift",
             "stars": 10920
@@ -1905,7 +1905,7 @@
             "last_commit": "2026-04-28T13:47:20Z",
             "owner": "geby",
             "repo": "synapse",
-            "stars": 138
+            "stars": 139
           }
         },
         {
@@ -1962,7 +1962,7 @@
             "last_commit": "2024-08-01T18:00:08Z",
             "owner": "felHR85",
             "repo": "UsbSerial",
-            "stars": 1943
+            "stars": 1944
           }
         }
       ],
@@ -2134,7 +2134,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T21:19:17Z",
+            "last_commit": "2026-05-18T01:59:54Z",
             "owner": "DelphiWorlds",
             "repo": "Kastri",
             "stars": 589
@@ -2221,7 +2221,7 @@
             "last_commit": "2026-04-23T14:21:23Z",
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
-            "stars": 724
+            "stars": 725
           }
         },
         {
@@ -2589,7 +2589,7 @@
             "last_commit": "2025-09-17T20:08:44Z",
             "owner": "RRUZ",
             "repo": "vcl-styles-utils",
-            "stars": 360
+            "stars": 359
           }
         },
         {
@@ -3303,7 +3303,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-17T00:39:18Z",
+            "last_commit": "2026-05-17T21:37:18Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 417
@@ -3342,10 +3342,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-15T11:52:09Z",
+            "last_commit": "2026-05-18T01:58:06Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 12280
+            "stars": 12298
           }
         }
       ],
@@ -3553,7 +3553,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-16T23:14:44Z",
+            "last_commit": "2026-05-17T12:00:55Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 241
@@ -4306,7 +4306,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-16T17:46:35Z",
+            "last_commit": "2026-05-17T15:53:03Z",
             "owner": "michaelJustin",
             "repo": "slf4p",
             "stars": 43
@@ -4470,7 +4470,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-17T00:39:18Z",
+            "last_commit": "2026-05-17T21:37:18Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 417
@@ -5102,7 +5102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-16T09:00:51Z",
+            "last_commit": "2026-05-17T09:00:34Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 74
@@ -5240,7 +5240,7 @@
             "last_commit": "2026-04-11T17:20:07Z",
             "owner": "EtheaDev",
             "repo": "MarkdownShellExtensions",
-            "stars": 107
+            "stars": 108
           }
         }
       ],
@@ -6076,7 +6076,7 @@
             "last_commit": "2026-05-15T23:15:08Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 173954
+            "stars": 173973
           }
         },
         {
@@ -6203,7 +6203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:53:07.133Z",
+    "last_updated": "2026-05-18T06:19:44.262Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "source_repository": "v1nvn/enhansome-pascal",
     "source_repository_description": null,
