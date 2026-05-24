@@ -80,7 +80,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-22T09:47:01Z",
+            "last_commit": "2026-05-24T03:59:43Z",
             "owner": "cnpack",
             "repo": "cnvcl",
             "stars": 397
@@ -148,7 +148,7 @@
             "last_commit": "2026-04-24T16:25:00Z",
             "owner": "grijjy",
             "repo": "GrijjyFoundation",
-            "stars": 257
+            "stars": 258
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2025-10-07T18:41:55Z",
             "owner": "HemulGM",
             "repo": "FMXAudio",
-            "stars": 64
+            "stars": 65
           }
         }
       ],
@@ -1264,7 +1264,7 @@
             "last_commit": "2026-05-21T14:45:21Z",
             "owner": "HashLoad",
             "repo": "horse",
-            "stars": 1338
+            "stars": 1340
           }
         },
         {
@@ -1329,7 +1329,7 @@
             "last_commit": "2026-05-19T06:35:34Z",
             "owner": "delphi-blocks",
             "repo": "WiRL",
-            "stars": 255
+            "stars": 256
           }
         },
         {
@@ -1352,10 +1352,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-21T22:58:37Z",
+            "last_commit": "2026-05-23T21:56:41Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10924
+            "stars": 10923
           }
         },
         {
@@ -1378,7 +1378,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-18T18:04:10Z",
+            "last_commit": "2026-05-23T12:21:36Z",
             "owner": "viniciussanchez",
             "repo": "RESTRequest4Delphi",
             "stars": 613
@@ -1563,7 +1563,7 @@
             "last_commit": "2026-04-25T19:41:09Z",
             "owner": "stijnsanders",
             "repo": "xxm",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -1594,7 +1594,7 @@
             "last_commit": "2022-12-16T16:21:46Z",
             "owner": "teppicom",
             "repo": "RealThinClient-SDK",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -2589,7 +2589,7 @@
             "last_commit": "2025-09-17T20:08:44Z",
             "owner": "RRUZ",
             "repo": "vcl-styles-utils",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -3267,7 +3267,7 @@
             "last_commit": "2022-12-16T15:45:41Z",
             "owner": "ariaghora",
             "repo": "noe",
-            "stars": 86
+            "stars": 87
           }
         },
         {
@@ -3303,7 +3303,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-17T21:37:18Z",
+            "last_commit": "2026-05-24T00:25:04Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 417
@@ -3345,7 +3345,7 @@
             "last_commit": "2026-05-20T04:10:06Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 12416
+            "stars": 12429
           }
         }
       ],
@@ -3530,7 +3530,7 @@
             "last_commit": "2026-05-21T12:24:30Z",
             "owner": "Xor-el",
             "repo": "HashLib4Pascal",
-            "stars": 254
+            "stars": 255
           }
         },
         {
@@ -3765,7 +3765,7 @@
             "last_commit": "2020-10-27T19:28:28Z",
             "owner": "Dennis1000",
             "repo": "verysimplexml",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -4470,7 +4470,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-17T21:37:18Z",
+            "last_commit": "2026-05-24T00:25:04Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
             "stars": 417
@@ -5102,7 +5102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-22T09:00:47Z",
+            "last_commit": "2026-05-23T09:00:49Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 74
@@ -5812,7 +5812,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T01:20:43Z",
+            "last_commit": "2026-05-23T22:14:45Z",
             "owner": "alefragnani",
             "repo": "vscode-language-pascal",
             "stars": 264
@@ -6076,7 +6076,7 @@
             "last_commit": "2026-05-21T23:49:32Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 174057
+            "stars": 174069
           }
         },
         {
@@ -6203,7 +6203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:43:40.215Z",
+    "last_updated": "2026-05-24T06:06:55.358Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "source_repository": "v1nvn/enhansome-pascal",
     "source_repository_description": null,
