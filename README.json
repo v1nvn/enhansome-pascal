@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-27T01:14:47Z",
+            "last_commit": "2026-05-29T03:33:55Z",
             "owner": "castle-engine",
             "repo": "castle-engine",
             "stars": 1164
@@ -1055,7 +1055,7 @@
             "last_commit": "2026-04-28T13:47:20Z",
             "owner": "geby",
             "repo": "synapse",
-            "stars": 139
+            "stars": 140
           }
         },
         {
@@ -1096,7 +1096,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-25T21:51:27Z",
+            "last_commit": "2026-05-28T21:10:17Z",
             "owner": "danieleteti",
             "repo": "delphimvcframework",
             "stars": 1379
@@ -1352,10 +1352,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-05-28T00:01:48Z",
+            "last_commit": "2026-05-29T00:25:20Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10927
+            "stars": 10929
           }
         },
         {
@@ -1368,7 +1368,7 @@
             "last_commit": "2026-01-12T09:50:40Z",
             "owner": "coassoftwaresystems",
             "repo": "delphi-modbus",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -1682,10 +1682,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-27T22:15:27Z",
+            "last_commit": "2026-05-29T00:55:55Z",
             "owner": "cesarliws",
             "repo": "dext",
-            "stars": 278
+            "stars": 279
           }
         }
       ],
@@ -1905,7 +1905,7 @@
             "last_commit": "2026-04-28T13:47:20Z",
             "owner": "geby",
             "repo": "synapse",
-            "stars": 139
+            "stars": 140
           }
         },
         {
@@ -2762,7 +2762,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2023-07-08T21:37:31Z",
+            "last_commit": "2026-05-29T05:00:53Z",
             "owner": "HemulGM",
             "repo": "FMXTrayIcon",
             "stars": 30
@@ -3055,7 +3055,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-20T13:00:10Z",
+            "last_commit": "2026-05-28T14:28:18Z",
             "owner": "davidlastrucci",
             "repo": "Trysil",
             "stars": 140
@@ -3103,7 +3103,7 @@
             "last_commit": "2026-05-13T15:55:16Z",
             "owner": "remobjects",
             "repo": "pascalscript",
-            "stars": 505
+            "stars": 506
           }
         },
         {
@@ -3345,7 +3345,7 @@
             "last_commit": "2026-05-27T01:53:36Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 12528
+            "stars": 12564
           }
         }
       ],
@@ -3553,7 +3553,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-27T23:37:45Z",
+            "last_commit": "2026-05-29T02:55:26Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
             "stars": 243
@@ -3887,7 +3887,7 @@
             "last_commit": "2026-03-19T15:00:30Z",
             "owner": "paolo-rossi",
             "repo": "delphi-neon",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -4021,7 +4021,7 @@
             "last_commit": "2020-06-06T20:00:44Z",
             "owner": "d-mozulyov",
             "repo": "BrainMM",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -4157,7 +4157,7 @@
             "last_commit": "2022-05-14T22:58:17Z",
             "owner": "emozgun",
             "repo": "delphi-android-SAF",
-            "stars": 37
+            "stars": 38
           }
         }
       ],
@@ -5102,7 +5102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-27T09:01:46Z",
+            "last_commit": "2026-05-28T09:01:15Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 75
@@ -5528,7 +5528,7 @@
             "last_commit": "2025-08-28T15:42:42Z",
             "owner": "ahausladen",
             "repo": "DDevExtensions",
-            "stars": 145
+            "stars": 146
           }
         },
         {
@@ -6076,7 +6076,7 @@
             "last_commit": "2026-05-21T23:49:32Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 174123
+            "stars": 174137
           }
         },
         {
@@ -6203,7 +6203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:17:42.881Z",
+    "last_updated": "2026-05-29T06:19:40.819Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "source_repository": "v1nvn/enhansome-pascal",
     "source_repository_description": null,
