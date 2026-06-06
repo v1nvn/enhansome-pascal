@@ -39,7 +39,7 @@
             "last_commit": "2026-06-03T22:14:00Z",
             "owner": "MagicFoundation",
             "repo": "Alcinoe",
-            "stars": 1117
+            "stars": 1119
           }
         },
         {
@@ -80,10 +80,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-05T06:00:12Z",
+            "last_commit": "2026-06-06T04:13:58Z",
             "owner": "cnpack",
             "repo": "cnvcl",
-            "stars": 397
+            "stars": 398
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-27T15:58:37Z",
+            "last_commit": "2026-06-05T13:06:54Z",
             "owner": "andrea-magni",
             "repo": "MARS",
-            "stars": 388
+            "stars": 391
           }
         },
         {
@@ -341,7 +341,7 @@
             "last_commit": "2026-06-03T19:45:53Z",
             "owner": "graphics32",
             "repo": "graphics32",
-            "stars": 460
+            "stars": 461
           }
         },
         {
@@ -403,7 +403,7 @@
             "last_commit": "2025-11-13T12:58:29Z",
             "owner": "synopse",
             "repo": "SynPDF",
-            "stars": 318
+            "stars": 319
           }
         },
         {
@@ -436,10 +436,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -561,7 +561,7 @@
             "last_commit": "2025-05-08T10:04:22Z",
             "owner": "Spelt",
             "repo": "ZXing.Delphi",
-            "stars": 516
+            "stars": 517
           }
         },
         {
@@ -662,7 +662,7 @@
             "last_commit": "2025-08-19T10:31:17Z",
             "owner": "EtheaDev",
             "repo": "IconFontsImageList",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2026-04-11T18:42:05Z",
             "owner": "EtheaDev",
             "repo": "SVGIconImageList",
-            "stars": 386
+            "stars": 387
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-04-08T17:47:37Z",
             "owner": "skia4delphi",
             "repo": "skia4delphi",
-            "stars": 772
+            "stars": 773
           }
         },
         {
@@ -862,10 +862,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-05T05:11:14Z",
+            "last_commit": "2026-06-05T14:34:13Z",
             "owner": "castle-engine",
             "repo": "castle-engine",
-            "stars": 1164
+            "stars": 1165
           }
         },
         {
@@ -891,7 +891,7 @@
             "last_commit": "2020-11-08T20:27:13Z",
             "owner": "ev1313",
             "repo": "Pascal-SDL-2-Headers",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -914,7 +914,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-04T19:14:05Z",
+            "last_commit": "2026-06-06T03:30:19Z",
             "owner": "BeRo1985",
             "repo": "pasvulkan",
             "stars": 216
@@ -945,10 +945,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-04T21:03:41Z",
+            "last_commit": "2026-06-05T13:34:54Z",
             "owner": "Cooler2",
             "repo": "ApusGameEngine",
-            "stars": 188
+            "stars": 189
           }
         },
         {
@@ -1000,7 +1000,7 @@
             "last_commit": "2025-08-19T21:02:24Z",
             "owner": "Coldzer0",
             "repo": "ImGui-Pascal",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -1042,7 +1042,7 @@
             "last_commit": "2026-05-21T17:57:38Z",
             "owner": "IndySockets",
             "repo": "Indy",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -1070,10 +1070,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2026-06-04T14:07:07Z",
             "owner": "danieleteti",
             "repo": "delphimvcframework",
-            "stars": 1382
+            "stars": 1384
           }
         },
         {
@@ -1238,7 +1238,7 @@
             "last_commit": "2026-04-27T07:32:42Z",
             "owner": "winddriver",
             "repo": "Delphi-Cross-Socket",
-            "stars": 468
+            "stars": 470
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "last_commit": "2026-06-01T18:25:53Z",
             "owner": "HashLoad",
             "repo": "horse",
-            "stars": 1341
+            "stars": 1342
           }
         },
         {
@@ -1316,7 +1316,7 @@
             "last_commit": "2026-03-19T15:38:53Z",
             "owner": "paolo-rossi",
             "repo": "delphi-jose-jwt",
-            "stars": 511
+            "stars": 512
           }
         },
         {
@@ -1326,10 +1326,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-19T06:35:34Z",
+            "last_commit": "2026-06-05T09:17:19Z",
             "owner": "delphi-blocks",
             "repo": "WiRL",
-            "stars": 256
+            "stars": 257
           }
         },
         {
@@ -1352,10 +1352,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-03T21:12:31Z",
+            "last_commit": "2026-06-05T23:36:43Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10929
+            "stars": 10927
           }
         },
         {
@@ -1381,7 +1381,7 @@
             "last_commit": "2026-05-25T11:01:56Z",
             "owner": "viniciussanchez",
             "repo": "RESTRequest4Delphi",
-            "stars": 613
+            "stars": 614
           }
         },
         {
@@ -1633,7 +1633,7 @@
             "last_commit": "2026-01-18T04:00:16Z",
             "owner": "risoflora",
             "repo": "brookframework",
-            "stars": 273
+            "stars": 274
           }
         },
         {
@@ -1682,10 +1682,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-04T21:12:48Z",
+            "last_commit": "2026-06-05T20:51:43Z",
             "owner": "cesarliws",
             "repo": "dext",
-            "stars": 279
+            "stars": 280
           }
         }
       ],
@@ -1834,7 +1834,7 @@
             "last_commit": "2026-04-06T08:09:04Z",
             "owner": "HemulGM",
             "repo": "DelphiOpenAI",
-            "stars": 306
+            "stars": 307
           }
         },
         {
@@ -1962,7 +1962,7 @@
             "last_commit": "2024-08-01T18:00:08Z",
             "owner": "felHR85",
             "repo": "UsbSerial",
-            "stars": 1946
+            "stars": 1947
           }
         }
       ],
@@ -1986,7 +1986,7 @@
             "last_commit": "2026-01-12T16:17:08Z",
             "owner": "spinettaro",
             "repo": "delphi-event-bus",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -2067,7 +2067,7 @@
             "last_commit": "2026-02-12T17:26:05Z",
             "owner": "TurboPack",
             "repo": "Orpheus",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -2134,10 +2134,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-04T02:01:27Z",
+            "last_commit": "2026-06-06T02:45:35Z",
             "owner": "DelphiWorlds",
             "repo": "Kastri",
-            "stars": 589
+            "stars": 590
           }
         },
         {
@@ -2221,7 +2221,7 @@
             "last_commit": "2026-06-04T18:14:10Z",
             "owner": "JAM-Software",
             "repo": "Virtual-TreeView",
-            "stars": 726
+            "stars": 728
           }
         },
         {
@@ -2400,7 +2400,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-05T00:38:56Z",
+            "last_commit": "2026-06-06T03:10:53Z",
             "owner": "TurboPack",
             "repo": "SynEdit",
             "stars": 259
@@ -2421,7 +2421,7 @@
             "last_commit": "2026-05-20T05:55:58Z",
             "owner": "Alexey-T",
             "repo": "ATSynEdit",
-            "stars": 189
+            "stars": 188
           }
         },
         {
@@ -2492,7 +2492,7 @@
             "last_commit": "2025-12-16T15:47:15Z",
             "owner": "BerndGabriel",
             "repo": "HtmlViewer",
-            "stars": 436
+            "stars": 437
           }
         },
         {
@@ -2557,7 +2557,7 @@
             "last_commit": "2026-05-11T08:58:42Z",
             "owner": "salvadordf",
             "repo": "WebView4Delphi",
-            "stars": 395
+            "stars": 397
           }
         }
       ],
@@ -2666,10 +2666,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -2856,10 +2856,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -2869,10 +2869,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -2941,10 +2941,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -3055,7 +3055,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-04T14:00:16Z",
+            "last_commit": "2026-06-05T14:19:40Z",
             "owner": "davidlastrucci",
             "repo": "Trysil",
             "stars": 140
@@ -3128,10 +3128,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -3157,7 +3157,7 @@
             "last_commit": "2025-11-26T11:54:48Z",
             "owner": "lmbelo",
             "repo": "python4delphi",
-            "stars": 1042
+            "stars": 1044
           }
         },
         {
@@ -3303,10 +3303,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-05T00:38:21Z",
+            "last_commit": "2026-06-06T02:41:17Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 418
+            "stars": 419
           }
         },
         {
@@ -3342,10 +3342,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-05T02:08:05Z",
+            "last_commit": "2026-06-06T03:31:25Z",
             "owner": "k2-fsa",
             "repo": "sherpa-onnx",
-            "stars": 12722
+            "stars": 12746
           }
         }
       ],
@@ -3392,10 +3392,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -3424,7 +3424,7 @@
             "last_commit": "2026-03-29T17:58:47Z",
             "owner": "MHumm",
             "repo": "DelphiEncryptionCompendium",
-            "stars": 281
+            "stars": 282
           }
         },
         {
@@ -3447,10 +3447,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -3504,7 +3504,7 @@
             "last_commit": "2025-11-17T12:16:03Z",
             "owner": "viniciussanchez",
             "repo": "bcrypt",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -3553,10 +3553,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-04T17:36:06Z",
+            "last_commit": "2026-06-06T01:03:35Z",
             "owner": "Xor-el",
             "repo": "CryptoLib4Pascal",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -3588,7 +3588,7 @@
             "last_commit": "2026-05-04T11:16:13Z",
             "owner": "viniciussanchez",
             "repo": "dataset-serialize",
-            "stars": 736
+            "stars": 737
           }
         },
         {
@@ -3672,10 +3672,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -3685,10 +3685,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -3701,7 +3701,7 @@
             "last_commit": "2026-06-03T21:06:51Z",
             "owner": "ahausladen",
             "repo": "JsonDataObjects",
-            "stars": 453
+            "stars": 454
           }
         },
         {
@@ -3714,7 +3714,7 @@
             "last_commit": "2017-12-18T10:49:24Z",
             "owner": "tmcdos",
             "repo": "tiny-json",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -3804,7 +3804,7 @@
             "last_commit": "2024-06-17T10:58:50Z",
             "owner": "PKGeorgiev",
             "repo": "Delphi-JsonToDelphiClass",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -3887,7 +3887,7 @@
             "last_commit": "2026-03-19T15:00:30Z",
             "owner": "paolo-rossi",
             "repo": "delphi-neon",
-            "stars": 353
+            "stars": 354
           }
         },
         {
@@ -3995,7 +3995,7 @@
             "last_commit": "2026-04-21T13:50:07Z",
             "owner": "pleriche",
             "repo": "FastMM4",
-            "stars": 488
+            "stars": 489
           }
         },
         {
@@ -4079,7 +4079,7 @@
             "last_commit": "2026-05-06T14:15:12Z",
             "owner": "gabr42",
             "repo": "OmniThreadLibrary",
-            "stars": 506
+            "stars": 507
           }
         },
         {
@@ -4092,7 +4092,7 @@
             "last_commit": "2024-07-02T18:51:32Z",
             "owner": "MahdiSafsafi",
             "repo": "DDetours",
-            "stars": 393
+            "stars": 394
           }
         },
         {
@@ -4283,7 +4283,7 @@
             "last_commit": "2026-06-04T14:04:41Z",
             "owner": "danieleteti",
             "repo": "loggerpro",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -4293,10 +4293,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -4309,7 +4309,7 @@
             "last_commit": "2026-05-17T15:53:03Z",
             "owner": "michaelJustin",
             "repo": "slf4p",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -4335,7 +4335,7 @@
             "last_commit": "2026-05-09T12:43:13Z",
             "owner": "exilon",
             "repo": "QuickLogger",
-            "stars": 442
+            "stars": 443
           }
         },
         {
@@ -4470,10 +4470,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-05T00:38:21Z",
+            "last_commit": "2026-06-06T02:41:17Z",
             "owner": "joaopauloschuler",
             "repo": "neural-api",
-            "stars": 418
+            "stars": 419
           }
         },
         {
@@ -4905,7 +4905,7 @@
             "last_commit": "2025-11-04T02:41:47Z",
             "owner": "jimmckeeth",
             "repo": "DelphiPatterns",
-            "stars": 179
+            "stars": 180
           }
         },
         {
@@ -5102,7 +5102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-04T09:00:45Z",
+            "last_commit": "2026-06-05T09:00:40Z",
             "owner": "MirrorProjetoACBr",
             "repo": "ACBr",
             "stars": 75
@@ -5160,10 +5160,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-06-05T06:05:14Z",
+            "last_commit": "2026-06-05T15:55:06Z",
             "owner": "RRUZ",
             "repo": "tsmbios",
-            "stars": 214
+            "stars": 215
           }
         },
         {
@@ -5274,10 +5274,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -5306,10 +5306,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-26T21:45:11Z",
+            "last_commit": "2026-06-05T22:34:40Z",
             "owner": "VSoftTechnologies",
             "repo": "DUnitX",
-            "stars": 417
+            "stars": 418
           }
         },
         {
@@ -5345,7 +5345,7 @@
             "last_commit": "2026-05-25T11:19:22Z",
             "owner": "VSoftTechnologies",
             "repo": "Delphi-Mocks",
-            "stars": 248
+            "stars": 249
           }
         },
         {
@@ -5381,10 +5381,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2026-05-04T14:13:13Z",
+            "last_commit": "2026-06-05T17:50:49Z",
             "owner": "synopse",
             "repo": "mORMot",
-            "stars": 821
+            "stars": 822
           }
         },
         {
@@ -5512,10 +5512,10 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2025-09-12T21:19:22Z",
+            "last_commit": "2026-06-05T16:24:12Z",
             "owner": "RRUZ",
             "repo": "delphi-ide-theme-editor",
-            "stars": 692
+            "stars": 694
           }
         },
         {
@@ -5597,7 +5597,7 @@
             "last_commit": "2021-03-15T14:06:10Z",
             "owner": "Memnarch",
             "repo": "Delphinus",
-            "stars": 239
+            "stars": 240
           }
         },
         {
@@ -5865,7 +5865,7 @@
             "last_commit": "2025-04-13T11:11:56Z",
             "owner": "DelphiCodeCoverage",
             "repo": "DelphiCodeCoverage",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -6047,7 +6047,7 @@
           "repo_info": {
             "archived": false,
             "language": "Pascal",
-            "last_commit": "2023-01-25T03:43:56Z",
+            "last_commit": "2026-06-05T16:10:09Z",
             "owner": "RRUZ",
             "repo": "delphi-preview-handler",
             "stars": 162
@@ -6076,7 +6076,7 @@
             "last_commit": "2026-05-21T23:49:32Z",
             "owner": "github",
             "repo": "gitignore",
-            "stars": 174281
+            "stars": 174306
           }
         },
         {
@@ -6125,7 +6125,7 @@
             "last_commit": "2026-05-27T11:29:07Z",
             "owner": "HashLoad",
             "repo": "boss",
-            "stars": 601
+            "stars": 602
           }
         },
         {
@@ -6203,7 +6203,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T06:37:16.600Z",
+    "last_updated": "2026-06-06T05:58:13.519Z",
     "original_repository": "Fr0sT-Brutal/awesome-pascal",
     "source_repository": "v1nvn/enhansome-pascal",
     "source_repository_description": null,
